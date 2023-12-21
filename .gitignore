@@ -1,0 +1,12 @@
+node_modules/
+.env
+todo.txt
+*.log
+.DS_Store
+
+client/node_modules
+client/public
+client/src
+client/package.json
+client/package-lock.json
+client/.gitignore
